@@ -7,7 +7,7 @@
     "مشاهده": "https://www.aparat.com/name/u_13633168"
   },
   {
-    "عکس": "https://s22.picofile.com/file/8448243500/InShot_%DB%B2%DB%B0%DB%B2%DB%B2%DB%B0%DB%B3%DB%B0%DB%B1_%DB%B1%DB%B9%DB%B2%DB%B2%DB%B4%DB%B5%DB%B3%DB%B0%DB%B2.jpg",
+    "عکس": "blob:https://www.aparat.com/59db7068-6793-4cdc-a18d-af5fe7675994",
     "دنبال کننده": "دنبال کننده : 5000",
     "کد": "کد : 2",
     "قیمت": "قیمت : 100.000 تومان",
